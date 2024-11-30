@@ -1,0 +1,2 @@
+camera_com:nlink_parser:px4_com:realsense-ros/realsense2_camera:realsense-ros/realsense2_description:ros_slam:rplidar_ros:serial_port:track_pkg
+-DCMAKE_BUILD_TYPE=Release -DCATKIN_DEVEL_PREFIX=/home/nvidia/uav_ws/devel -DCMAKE_INSTALL_PREFIX=/home/nvidia/uav_ws/install -G Unix Makefiles

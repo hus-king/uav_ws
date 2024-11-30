@@ -1,0 +1,8 @@
+prefix=/home/nvidia/uav_ws/install
+
+Name: star
+Description: Description of star
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
